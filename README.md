@@ -6,14 +6,10 @@ Kettle Stock Exchange web scrapes URL to get latest prices and places them into 
 Set the file get_JKC_price.py to automatically run every day. It will scrape the latest price.<br>
 To view the data in chart form, just run the file showChart.py to view the data.<br>
 <br>
-
-### Example.
-
-```
+### EXAMPLE
 ![Sample](https://github.com/PythonTrad3r/Kettle_Stock_Exchange/blob/main/Sample.PNG?raw=true)
 
-...
-```
+
 ### Requirements
 
     Python >= 2.7, 3.11
