@@ -1,0 +1,1 @@
+root_folder = "~/PATH/TO/FOLDER/"
