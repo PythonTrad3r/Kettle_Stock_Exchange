@@ -10,7 +10,7 @@ To view the data in chart form, just run the file showChart to view the data.<br
 ### Example.
 
 ```
-![Sample](https://user-images.githubusercontent.com/122138783/220182985-60e416e7-0736-4599-8ab9-de0f182e22e2.PNG)
+![Sample](https://github.com/PythonTrad3r/Kettle_Stock_Exchange/blob/main/Sample.PNG?raw=true)
 
 ...
 ```
